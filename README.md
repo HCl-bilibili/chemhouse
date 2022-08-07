@@ -2,7 +2,7 @@
 
 chemhouse网站公开仓库
 
-网址：https://chemhouse.rth.app/
+网址：https://hcl-bilibili.github.io/chemhouse/
 
 ## 网站有何用？
 
