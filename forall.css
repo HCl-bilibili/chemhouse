@@ -1,11 +1,10 @@
 body{
-	background-color:#00FFCC;
-	color:#FFFFFF;
+	background-color:#FFFFFF;
+	color:#000000;
 }
 
 header{
-	background-color:#000000;
-	padding:-100px;
+	
 }
 
 .cls{
@@ -57,22 +56,22 @@ img[class="ico"]{
 
 a {
 	text-decoration:none;
-	color:#FF9933;
+	color:#2bae85;
 }
 
 a:visited {
 	text-decoration:none;
-	color:#BBBBBB;
+	color:#69a794;
 }
 
 a:hover {
 	text-decoration:none;
-	color:#E58A2E;
+	color:#20a162;
 }
 
 a:active {
 	text-decoration:none;
-	color:#FFA64D;
+	color:#83cbac;
 }
 
 .del {
